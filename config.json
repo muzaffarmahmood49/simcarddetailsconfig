@@ -5,7 +5,7 @@
     "rewarded_enabled": true,
     "rewarded_interstitial_enabled": true,
     "whatsapp": {
-        "enabled": true,
+        "enabled": false,
         "url": "https://wa.me/+923358027810?text=hii"
     }
 }
